@@ -1,0 +1,5 @@
+.ipynb_checkpoints
+check.xlsx
+consumption_forecast.ipynb
+jupyter-notebook.py
+Скрипт_описание.txt
